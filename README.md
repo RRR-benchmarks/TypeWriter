@@ -1,3 +1,16 @@
+# **PROVENANCE NOTICE**
+
+---
+
+**Source Repository:**  
+https://github.com/gabber235/TypeWriter
+
+
+**Note:**  
+To comply with double-blind review requirements, this fork’s commit history was anonymized. The transformed and instrumented codes included in this repository were produced from this original git repository.
+
+---
+
 # Typewriter
 
 ###### The next generation of questing in minecraft.
